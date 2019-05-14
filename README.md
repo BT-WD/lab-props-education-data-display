@@ -26,6 +26,6 @@ Download the education_data.js file in this repository and add it to the "src" f
 
 4. Using your table row component, display the first five schools data on your table.
 
-###Stretch
+### Stretch
 
 5. Display ALL the school data on your table.
