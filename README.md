@@ -40,7 +40,7 @@ To learn more about tables, head over to the W3schools documentation on HTML tab
 
 4. Using your table row component, display the first five schools data on your table.
 
-### Stretch
+## Stretch
 
 5. Display ALL the school data on your table.
 
